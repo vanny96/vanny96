@@ -2,7 +2,7 @@
 
 ### Senior Software & Platform Engineer
 
-I specialize in building **cloud-native systems**, **Kubernetes operators**, and **GitOps architectures**. With over 6 years of experience across regulated industries (Insurance, FinTech, Telecom), I focus on bridge-building between robust backend engineering and scalable platform operations.
+I build cloud-native systems, Kubernetes operators, and GitOps architectures. With over 6 years of experience in the insurance, fintech, and telecom sectors, I focus on bridging the gap between backend engineering and scalable platform operations.
 
 ---
 
