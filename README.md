@@ -41,4 +41,4 @@ I believe in contributing back to the tools I use. I've had PRs merged into:
 [![Email](https://img.shields.io/badge/Email-giovannibarbaro7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giovannibarbaro7+github@gmail.com)
 
 ---
-[![Vanny96's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanny96)](https://github.com/vanny96/github-readme-stats)
+[![Vanny96's GitHub stats](https://github-stats-extended.vercel.app/api?username=vanny96)](https://github.com/stats-organization/github-stats-extended)
