@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**vanny96/vanny96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software & Platform Engineer
 
-Here are some ideas to get you started:
+I specialize in building **cloud-native systems**, **Kubernetes operators**, and **GitOps architectures**. With over 6 years of experience across regulated industries (Insurance, FinTech, Telecom), I focus on bridge-building between robust backend engineering and scalable platform operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Cloud & Platform:** Kubernetes (Operators, Helm), Azure, Terraform, Docker, ArgoCD, GitHub/GitLab CI
+- **Backend:** Java, Kotlin, Go, Scala, Spring Boot, Quarkus
+- **Observability & Security:** Prometheus, Grafana, Keycloak, ElasticSearch
+- **Game Dev:** Godot, Unity
+
+---
+
+### 🎮 Game Dev
+While my daily bread is enterprise infrastructure, my passion lies in **Game Development**. I enjoy bringing stories to life and creating engaging gameplay loops!
+
+* **[Exspherimental](https://vanny96.itch.io/):** An indie title released on itch.io that reached **10,000+ players**.
+* **[Power Nap](https://vanny96.itch.io/power-nap):** Kenney's Jam 2025 entry. A superhero fights sleeping urges during an alien invasion.
+* **[Dicey Nights](https://vanny96.itch.io/dicey-nights):** GMTK Jam 2022 entry. Puzzle-solving to reunite two dice lovers.
+* **[To The Light](https://vanny96.itch.io/to-the-light):** A short puzzle game centered on deciphering card game mechanics.
+* **[Bouncy](https://vanny96.itch.io/bouncy):** A platformer featuring a fox climbing to a mountain peak.
+
+---
+
+### 🏗️ Open Source Contributions
+I believe in contributing back to the tools I use. I've had PRs merged into:
+* **Eclipse SDV Zenoh**
+* **Quarkus**
+* **Tyk API Gateway**
+* **Argo Workflows**
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-giovanni--barbaro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/giovanni-barbaro-5183b1180)
+[![Itch.io](https://img.shields.io/badge/Itch.io-vanny96-fa5c5c?style=flat&logo=itch.io)](https://vanny96.itch.io/)
+[![Email](https://img.shields.io/badge/Email-giovannibarbaro7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giovannibarbaro7+github@gmail.com)
+
+---
+[![Vanny96's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanny96)](https://github.com/vanny96/github-readme-stats)
